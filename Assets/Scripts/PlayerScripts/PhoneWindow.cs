@@ -7,6 +7,8 @@ public class PhoneWindow : MonoBehaviour
 
     void Update()
     {
-        phoneMessage.SetActive(Input.GetKey(KeyCode.Q));
+        if(DialogueManager.dialogueCompleted){
+            phoneMessage.SetActive(Input.GetKey(KeyCode.Q));
+        }
     }
 }
