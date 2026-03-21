@@ -673,8 +673,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Ja:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
-  m_sharedMaterial: {fileID: 9180790502079306237, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
+  m_sharedMaterial: {fileID: 8892154281534612185, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -791,8 +791,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "*Wci\u015Bnij spacj\u0119, aby rozpocz\u0105\u0107 konwersacj\u0119!*"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
-  m_sharedMaterial: {fileID: 9180790502079306237, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
+  m_sharedMaterial: {fileID: 8892154281534612185, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1157,8 +1157,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Stra\u017Cnik:\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
-  m_sharedMaterial: {fileID: 9180790502079306237, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
+  m_sharedMaterial: {fileID: 8892154281534612185, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1294,8 +1294,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "*Kliknij E, aby zako\u0144czy\u0107 dialog*"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
-  m_sharedMaterial: {fileID: 9180790502079306237, guid: b8c0c7c40432c0346a13e44f310dbe60, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
+  m_sharedMaterial: {fileID: 8892154281534612185, guid: 9e3bbb512d3cf7645b1957f13c1565d7, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
