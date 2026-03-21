@@ -1,5 +1,4 @@
 using UnityEngine;
-using TMPro;
 
 public class PhoneWindow : MonoBehaviour
 {
@@ -7,8 +6,18 @@ public class PhoneWindow : MonoBehaviour
 
     void Update()
     {
-        if(DialogueManager.dialogueCompleted){
-            phoneMessage.SetActive(Input.GetKey(KeyCode.Q));
+        if (!DialogueManager.dialogueCompleted)
+        {
+            phoneMessage.SetActive(false);
+            return;
+        }
+
+        bool isHolding = Input.GetKey(KeyCode.Q);
+        phoneMessage.SetActive(isHolding);
+
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            PhoneNotification.phoneNotification = false;
         }
     }
 }

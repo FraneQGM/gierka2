@@ -87,6 +87,7 @@ public class DialogueManager : MonoBehaviour
 
             btn.onClick.AddListener(() =>
             {
+                PhoneNotification.phoneNotification = true;
                 SceneManager.LoadScene("Main");
             });
 
