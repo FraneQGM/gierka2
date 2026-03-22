@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 5717af3d9eb67a944a9201e9ddad1e6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5852256179154332469
+    second: "exterior \u2014 kopia_0"
+  - first:
+      213: -5843828117604260212
+    second: "exterior \u2014 kopia_1"
+  - first:
+      213: 3148715330337214283
+    second: "exterior \u2014 kopia_2"
+  - first:
+      213: 1128926831030275346
+    second: "exterior \u2014 kopia_3"
+  - first:
+      213: 2506397658363835004
+    second: "exterior \u2014 kopia_4"
+  - first:
+      213: -6980955000396378734
+    second: "exterior \u2014 kopia_5"
+  - first:
+      213: 6369581337289495755
+    second: "exterior \u2014 kopia_6"
+  - first:
+      213: 3347459273180371663
+    second: "exterior \u2014 kopia_7"
+  - first:
+      213: -6211599492825919978
+    second: "exterior \u2014 kopia_8"
+  - first:
+      213: 3927622186255403727
+    second: "exterior \u2014 kopia_9"
+  - first:
+      213: -7612882470991670045
+    second: "exterior \u2014 kopia_10"
+  - first:
+      213: 8778007036127622501
+    second: "exterior \u2014 kopia_11"
+  - first:
+      213: 5530903706526095314
+    second: "exterior \u2014 kopia_12"
+  - first:
+      213: 3258157681661489709
+    second: "exterior \u2014 kopia_13"
+  - first:
+      213: -2835404001753145851
+    second: "exterior \u2014 kopia_14"
+  - first:
+      213: -7962354428874608210
+    second: "exterior \u2014 kopia_15"
+  - first:
+      213: 1325376427940903874
+    second: "exterior \u2014 kopia_16"
+  - first:
+      213: 2114222169495580057
+    second: "exterior \u2014 kopia_17"
+  - first:
+      213: 5348527978345809650
+    second: "exterior \u2014 kopia_18"
+  - first:
+      213: -6709497038491713168
+    second: "exterior \u2014 kopia_19"
+  - first:
+      213: 1822607559841146319
+    second: "exterior \u2014 kopia_20"
+  - first:
+      213: 1696424191453010152
+    second: "exterior \u2014 kopia_21"
+  - first:
+      213: 6258033859348532241
+    second: "exterior \u2014 kopia_22"
+  - first:
+      213: 2938815147721170153
+    second: "exterior \u2014 kopia_23"
+  - first:
+      213: 613117093485034712
+    second: "exterior \u2014 kopia_24"
+  - first:
+      213: 5130924347085700060
+    second: "exterior \u2014 kopia_25"
+  - first:
+      213: -8410767097660880873
+    second: "exterior \u2014 kopia_26"
+  - first:
+      213: 3202192454801233006
+    second: "exterior \u2014 kopia_27"
+  - first:
+      213: 7013059946337283163
+    second: "exterior \u2014 kopia_28"
+  - first:
+      213: -4467361201093418185
+    second: "exterior \u2014 kopia_29"
+  - first:
+      213: -3585195715757122652
+    second: "exterior \u2014 kopia_30"
+  - first:
+      213: 6690589084374317479
+    second: "exterior \u2014 kopia_31"
+  - first:
+      213: 3233431923256065077
+    second: "exterior \u2014 kopia_32"
+  - first:
+      213: 222126371455509572
+    second: "exterior \u2014 kopia_33"
+  - first:
+      213: 1721093985747491687
+    second: "exterior \u2014 kopia_34"
+  - first:
+      213: 1876975306703694362
+    second: "exterior \u2014 kopia_35"
+  - first:
+      213: -1786370602359862100
+    second: "exterior \u2014 kopia_36"
+  - first:
+      213: 6259231085926590616
+    second: "exterior \u2014 kopia_37"
+  - first:
+      213: 1201558341655565712
+    second: "exterior \u2014 kopia_38"
+  - first:
+      213: -6799763572777947280
+    second: "exterior \u2014 kopia_39"
+  - first:
+      213: -574698113308899465
+    second: "exterior \u2014 kopia_40"
+  - first:
+      213: 8996066025125717158
+    second: "exterior \u2014 kopia_41"
+  - first:
+      213: 9030601610624410395
+    second: "exterior \u2014 kopia_42"
+  - first:
+      213: -2075568188304601470
+    second: "exterior \u2014 kopia_43"
+  - first:
+      213: 9127087935875772473
+    second: "exterior \u2014 kopia_44"
+  - first:
+      213: 1124372528474990184
+    second: "exterior \u2014 kopia_45"
+  - first:
+      213: -8421968510241905456
+    second: "exterior \u2014 kopia_46"
+  - first:
+      213: 6662063217020363280
+    second: "exterior \u2014 kopia_47"
+  - first:
+      213: 3838941761251371193
+    second: "exterior \u2014 kopia_48"
+  - first:
+      213: 3046567285539482989
+    second: "exterior \u2014 kopia_49"
+  - first:
+      213: -6896164457607074680
+    second: "exterior \u2014 kopia_50"
+  - first:
+      213: -8016818406759338375
+    second: "exterior \u2014 kopia_51"
+  - first:
+      213: -1567862106665104194
+    second: "exterior \u2014 kopia_52"
+  - first:
+      213: 5407984679992140311
+    second: "exterior \u2014 kopia_53"
+  - first:
+      213: 599219217073002286
+    second: "exterior \u2014 kopia_54"
+  - first:
+      213: -5444865472512335321
+    second: "exterior \u2014 kopia_55"
+  - first:
+      213: 7617985805497199840
+    second: "exterior \u2014 kopia_56"
+  - first:
+      213: -5921464356301861365
+    second: "exterior \u2014 kopia_57"
+  - first:
+      213: 2080912036400193731
+    second: "exterior \u2014 kopia_58"
+  - first:
+      213: 5690282645440750059
+    second: "exterior \u2014 kopia_59"
+  - first:
+      213: -9109400348698065371
+    second: "exterior \u2014 kopia_60"
+  - first:
+      213: 5992682282634844820
+    second: "exterior \u2014 kopia_61"
+  - first:
+      213: 7825826230125189751
+    second: "exterior \u2014 kopia_62"
+  - first:
+      213: -5917048472308382995
+    second: "exterior \u2014 kopia_63"
+  - first:
+      213: 1012392395769006882
+    second: "exterior \u2014 kopia_64"
+  - first:
+      213: 6562286262232200895
+    second: "exterior \u2014 kopia_65"
+  - first:
+      213: 4674551156479404991
+    second: "exterior \u2014 kopia_66"
+  - first:
+      213: 6867981840802854517
+    second: "exterior \u2014 kopia_67"
+  - first:
+      213: -6736332360074578025
+    second: "exterior \u2014 kopia_68"
+  - first:
+      213: -6201915396569955761
+    second: "exterior \u2014 kopia_69"
+  - first:
+      213: -4781428492632931414
+    second: "exterior \u2014 kopia_70"
+  - first:
+      213: -7582553452083786078
+    second: "exterior \u2014 kopia_71"
+  - first:
+      213: -6222497392135607269
+    second: "exterior \u2014 kopia_72"
+  - first:
+      213: 1576681588009353434
+    second: "exterior \u2014 kopia_73"
+  - first:
+      213: 596401263805913241
+    second: "exterior \u2014 kopia_74"
+  - first:
+      213: -2991941162237942982
+    second: "exterior \u2014 kopia_75"
+  - first:
+      213: 1176350613451886479
+    second: "exterior \u2014 kopia_76"
+  - first:
+      213: -3705699999868432218
+    second: "exterior \u2014 kopia_77"
+  - first:
+      213: 2833855513316749973
+    second: "exterior \u2014 kopia_78"
+  - first:
+      213: 1185744919853695087
+    second: "exterior \u2014 kopia_79"
+  - first:
+      213: -6680831804363858414
+    second: "exterior \u2014 kopia_80"
+  - first:
+      213: -347247335926509206
+    second: "exterior \u2014 kopia_81"
+  - first:
+      213: 2843696864774058205
+    second: "exterior \u2014 kopia_82"
+  - first:
+      213: -8383114885692803241
+    second: "exterior \u2014 kopia_83"
+  - first:
+      213: 1970294662408077398
+    second: "exterior \u2014 kopia_84"
+  - first:
+      213: -6092340493023724663
+    second: "exterior \u2014 kopia_85"
+  - first:
+      213: 3035865787388018977
+    second: "exterior \u2014 kopia_86"
+  - first:
+      213: -8148604525871425352
+    second: "exterior \u2014 kopia_87"
+  - first:
+      213: 8231813894240208825
+    second: "exterior \u2014 kopia_88"
+  - first:
+      213: -6758371606448765706
+    second: "exterior \u2014 kopia_89"
+  - first:
+      213: 7064955494308748078
+    second: "exterior \u2014 kopia_90"
+  - first:
+      213: -315420530289960137
+    second: "exterior \u2014 kopia_91"
+  - first:
+      213: 7819441454211681352
+    second: "exterior \u2014 kopia_92"
+  - first:
+      213: 3903037970080632481
+    second: "exterior \u2014 kopia_93"
+  - first:
+      213: 1455153089592721307
+    second: "exterior \u2014 kopia_94"
+  - first:
+      213: -581317524609708017
+    second: "exterior \u2014 kopia_95"
+  - first:
+      213: 3066330661624608718
+    second: "exterior \u2014 kopia_96"
+  - first:
+      213: -6185876714663149954
+    second: "exterior \u2014 kopia_97"
+  - first:
+      213: -2199859555287857890
+    second: "exterior \u2014 kopia_98"
+  - first:
+      213: -4585394446062281822
+    second: "exterior \u2014 kopia_99"
+  - first:
+      213: 4647147899638593400
+    second: "exterior \u2014 kopia_100"
+  - first:
+      213: -8794911070656650494
+    second: "exterior \u2014 kopia_101"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_0"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 591
+        width: 164
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4dbeaf20c98cea0800000000000000
+      internalID: -5852256179154332469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_1"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 748
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8622c9f94d86eea0800000000000000
+      internalID: -5843828117604260212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_2"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f839b09eb72bb20800000000000000
+      internalID: 3148715330337214283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_3"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 701
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d87f4b8f0caaf00800000000000000
+      internalID: 1128926831030275346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_4"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 687
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b5ac046388c220800000000000000
+      internalID: 2506397658363835004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_5"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 623
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d0360f96aae1f90800000000000000
+      internalID: -6980955000396378734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_6"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 671
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc419119a7c456850800000000000000
+      internalID: 6369581337289495755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_7"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 631
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcad00e2970947e20800000000000000
+      internalID: 3347459273180371663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_8"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 575
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e4d17fb27fbc9a0800000000000000
+      internalID: -6211599492825919978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_9"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 625
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca42b7a197b18630800000000000000
+      internalID: 3927622186255403727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_10"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45eb73abb995690800000000000000
+      internalID: -7612882470991670045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_11"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 543
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565344834eeb1d970800000000000000
+      internalID: 8778007036127622501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_12"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 543
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7116afd97b1cc40800000000000000
+      internalID: 5530903706526095314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_13"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 543
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b4a5262d473d20800000000000000
+      internalID: 3258157681661489709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_14"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 575
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e58c0451f96a8d0800000000000000
+      internalID: -2835404001753145851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_15"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 560
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1bb2355d8008190800000000000000
+      internalID: -7962354428874608210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_16"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 528
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf71dc6dea46210800000000000000
+      internalID: 1325376427940903874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_17"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 517
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d2a0d8cd9375d10800000000000000
+      internalID: 2114222169495580057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_18"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 532
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64a8ccbd9c93a40800000000000000
+      internalID: 5348527978345809650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_19"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 487
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0718a2fedf313e2a0800000000000000
+      internalID: -6709497038491713168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_20"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 495
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5e5494be33b4910800000000000000
+      internalID: 1822607559841146319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_21"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 502
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89fe760d8ea8710800000000000000
+      internalID: 1696424191453010152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_22"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c06da73a009d650800000000000000
+      internalID: 6258033859348532241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_23"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 480
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec157c6ec4c8c820800000000000000
+      internalID: 2938815147721170153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_24"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 495
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc35e28fba328800800000000000000
+      internalID: 613117093485034712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_25"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb32754284b43740800000000000000
+      internalID: 5130924347085700060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_26"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 401
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718416703e3f64b80800000000000000
+      internalID: -8410767097660880873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_27"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 399
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e641dda5219707c20800000000000000
+      internalID: 3202192454801233006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_28"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 450
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c24f94dd4635160800000000000000
+      internalID: 7013059946337283163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_29"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 404
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e67d18aeb002c0800000000000000
+      internalID: -4467361201093418185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_30"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 358
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab5b00ed73de3ec0800000000000000
+      internalID: -3585195715757122652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_31"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9bc30f25fb9dc50800000000000000
+      internalID: 6690589084374317479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_32"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 373
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf517e3357fdc20800000000000000
+      internalID: 3233431923256065077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_33"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 370
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4442ad902c6251300800000000000000
+      internalID: 222126371455509572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_34"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 375
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5a8d7cdd82e710800000000000000
+      internalID: 1721093985747491687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_35"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 373
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ae048c81b5c0a10800000000000000
+      internalID: 1876975306703694362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_36"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 374
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc329d6698537e0800000000000000
+      internalID: -1786370602359862100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_37"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 310
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898acb382814dd650800000000000000
+      internalID: 6259231085926590616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_38"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095994312facca010800000000000000
+      internalID: 1201558341655565712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_39"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 338
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fede7ae0362a1a0800000000000000
+      internalID: -6799763572777947280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_40"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 340
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c22f5c134608f0800000000000000
+      internalID: -574698113308899465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_41"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 343
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4249bf26278dc70800000000000000
+      internalID: 8996066025125717158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_42"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 346
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a6559154235d70800000000000000
+      internalID: 9030601610624410395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_43"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 346
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec005cab91233e0800000000000000
+      internalID: -2075568188304601470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_44"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 310
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f0abce1ee9ae70800000000000000
+      internalID: 9127087935875772473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_45"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 311
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a5f28bd29a9f00800000000000000
+      internalID: 1124372528474990184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_46"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 298
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4618de2482f1b80800000000000000
+      internalID: -8421968510241905456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_47"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 255
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e1b1e237647c50800000000000000
+      internalID: 6662063217020363280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8ecc83139a64530800000000000000
+      internalID: 3838941761251371193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_49"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 263
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d28e60ec4974a20800000000000000
+      internalID: 3046567285539482989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_50"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ce7a796f6eb40a0800000000000000
+      internalID: -6896164457607074680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_51"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eeb4c422a8eb090800000000000000
+      internalID: -8016818406759338375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_52"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 210
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc4e6b88b5dd3ae0800000000000000
+      internalID: -1567862106665104194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_53"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 212
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712afa9e9650d0b40800000000000000
+      internalID: 5407984679992140311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_54"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 176
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27593004bad05800800000000000000
+      internalID: 599219217073002286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_55"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722ec1d63b3ff64b0800000000000000
+      internalID: -5444865472512335321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_56"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 179
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece0a07ab588b960800000000000000
+      internalID: 7617985805497199840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_57"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 179
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e8d7c8a8bb2dda0800000000000000
+      internalID: -5921464356301861365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_58"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0e772d872e0ec10800000000000000
+      internalID: 2080912036400193731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_59"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e019eae1f7fe40800000000000000
+      internalID: 5690282645440750059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_60"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526480385a8e49180800000000000000
+      internalID: -9109400348698065371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_61"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1a3419c84a2350800000000000000
+      internalID: 5992682282634844820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_62"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 147
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77adb884e7bea9c60800000000000000
+      internalID: 7825826230125189751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_63"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 144
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de28a49a3cb62eda0800000000000000
+      internalID: -5917048472308382995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_64"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 136
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b4e13258dbc0e00800000000000000
+      internalID: 1012392395769006882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_65"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6b6c6469ce11b50800000000000000
+      internalID: 6562286262232200895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_66"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 165
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba85e82875fd040800000000000000
+      internalID: 4674551156479404991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_67"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57633e89819ff4f50800000000000000
+      internalID: 6867981840802854517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_68"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79739ccb86db382a0800000000000000
+      internalID: -6736332360074578025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_69"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f420c645ece5ee9a0800000000000000
+      internalID: -6201915396569955761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_70"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3cea97e14f4adb0800000000000000
+      internalID: -4781428492632931414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_71"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 128
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae42263fcb55c690800000000000000
+      internalID: -7582553452083786078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_72"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c66fd079f35a9a0800000000000000
+      internalID: -6222497392135607269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_73"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 80
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad04239fc8f71e510800000000000000
+      internalID: 1576681588009353434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_74"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998deb02ac7d64800800000000000000
+      internalID: 596401263805913241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_75"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 99
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3320fb6d5d7a76d0800000000000000
+      internalID: -2991941162237942982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_76"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fcc1e76ac335010800000000000000
+      internalID: 1176350613451886479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_77"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05da7db75b29cc0800000000000000
+      internalID: -3705699999868432218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_78"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592f6003390e35720800000000000000
+      internalID: 2833855513316749973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_79"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f608a16e8bc947010800000000000000
+      internalID: 1185744919853695087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_80"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e92c8dedae843a0800000000000000
+      internalID: -6680831804363858414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_81"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6156e443645e2bf0800000000000000
+      internalID: -347247335926509206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_82"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 40
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0ffb16b37d67720800000000000000
+      internalID: 2843696864774058205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_83"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 40
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757bdf65d6139ab80800000000000000
+      internalID: -8383114885692803241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_84"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6508eaf6e84e75b10800000000000000
+      internalID: 1970294662408077398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_85"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bb796a998a37ba0800000000000000
+      internalID: -6092340493023724663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_86"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121460359df812a20800000000000000
+      internalID: 3035865787388018977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_87"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81b4c5b575aee80800000000000000
+      internalID: -8148604525871425352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_88"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7005f6f174d3270800000000000000
+      internalID: 8231813894240208825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_89"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f40981d4d07532a0800000000000000
+      internalID: -6758371606448765706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_90"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b97302793cb0260800000000000000
+      internalID: 7064955494308748078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_91"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 7
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b9339e2b66f9bf0800000000000000
+      internalID: -315420530289960137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_92"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 17
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c404cc29c348c60800000000000000
+      internalID: 7819441454211681352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_93"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae8487ca506a2630800000000000000
+      internalID: 3903037970080632481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_94"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f7cf6760eb13410800000000000000
+      internalID: 1455153089592721307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_95"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00dde39acebee7f0800000000000000
+      internalID: -581317524609708017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_96"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f50a9d7bcd8a20800000000000000
+      internalID: 3066330661624608718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_97"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 20
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7426f6e9572aa0800000000000000
+      internalID: -6185876714663149954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_98"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15815bc3678871e0800000000000000
+      internalID: -2199859555287857890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_99"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9867bb086d50c0800000000000000
+      internalID: -4585394446062281822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_100"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87739a0a46cfd7040800000000000000
+      internalID: 4647147899638593400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "exterior \u2014 kopia_101"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032c5a8af232f580800000000000000
+      internalID: -8794911070656650494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c75c58850016b834aa510673419acf5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "exterior \u2014 kopia_0": -5852256179154332469
+      "exterior \u2014 kopia_1": -5843828117604260212
+      "exterior \u2014 kopia_10": -7612882470991670045
+      "exterior \u2014 kopia_100": 4647147899638593400
+      "exterior \u2014 kopia_101": -8794911070656650494
+      "exterior \u2014 kopia_11": 8778007036127622501
+      "exterior \u2014 kopia_12": 5530903706526095314
+      "exterior \u2014 kopia_13": 3258157681661489709
+      "exterior \u2014 kopia_14": -2835404001753145851
+      "exterior \u2014 kopia_15": -7962354428874608210
+      "exterior \u2014 kopia_16": 1325376427940903874
+      "exterior \u2014 kopia_17": 2114222169495580057
+      "exterior \u2014 kopia_18": 5348527978345809650
+      "exterior \u2014 kopia_19": -6709497038491713168
+      "exterior \u2014 kopia_2": 3148715330337214283
+      "exterior \u2014 kopia_20": 1822607559841146319
+      "exterior \u2014 kopia_21": 1696424191453010152
+      "exterior \u2014 kopia_22": 6258033859348532241
+      "exterior \u2014 kopia_23": 2938815147721170153
+      "exterior \u2014 kopia_24": 613117093485034712
+      "exterior \u2014 kopia_25": 5130924347085700060
+      "exterior \u2014 kopia_26": -8410767097660880873
+      "exterior \u2014 kopia_27": 3202192454801233006
+      "exterior \u2014 kopia_28": 7013059946337283163
+      "exterior \u2014 kopia_29": -4467361201093418185
+      "exterior \u2014 kopia_3": 1128926831030275346
+      "exterior \u2014 kopia_30": -3585195715757122652
+      "exterior \u2014 kopia_31": 6690589084374317479
+      "exterior \u2014 kopia_32": 3233431923256065077
+      "exterior \u2014 kopia_33": 222126371455509572
+      "exterior \u2014 kopia_34": 1721093985747491687
+      "exterior \u2014 kopia_35": 1876975306703694362
+      "exterior \u2014 kopia_36": -1786370602359862100
+      "exterior \u2014 kopia_37": 6259231085926590616
+      "exterior \u2014 kopia_38": 1201558341655565712
+      "exterior \u2014 kopia_39": -6799763572777947280
+      "exterior \u2014 kopia_4": 2506397658363835004
+      "exterior \u2014 kopia_40": -574698113308899465
+      "exterior \u2014 kopia_41": 8996066025125717158
+      "exterior \u2014 kopia_42": 9030601610624410395
+      "exterior \u2014 kopia_43": -2075568188304601470
+      "exterior \u2014 kopia_44": 9127087935875772473
+      "exterior \u2014 kopia_45": 1124372528474990184
+      "exterior \u2014 kopia_46": -8421968510241905456
+      "exterior \u2014 kopia_47": 6662063217020363280
+      "exterior \u2014 kopia_48": 3838941761251371193
+      "exterior \u2014 kopia_49": 3046567285539482989
+      "exterior \u2014 kopia_5": -6980955000396378734
+      "exterior \u2014 kopia_50": -6896164457607074680
+      "exterior \u2014 kopia_51": -8016818406759338375
+      "exterior \u2014 kopia_52": -1567862106665104194
+      "exterior \u2014 kopia_53": 5407984679992140311
+      "exterior \u2014 kopia_54": 599219217073002286
+      "exterior \u2014 kopia_55": -5444865472512335321
+      "exterior \u2014 kopia_56": 7617985805497199840
+      "exterior \u2014 kopia_57": -5921464356301861365
+      "exterior \u2014 kopia_58": 2080912036400193731
+      "exterior \u2014 kopia_59": 5690282645440750059
+      "exterior \u2014 kopia_6": 6369581337289495755
+      "exterior \u2014 kopia_60": -9109400348698065371
+      "exterior \u2014 kopia_61": 5992682282634844820
+      "exterior \u2014 kopia_62": 7825826230125189751
+      "exterior \u2014 kopia_63": -5917048472308382995
+      "exterior \u2014 kopia_64": 1012392395769006882
+      "exterior \u2014 kopia_65": 6562286262232200895
+      "exterior \u2014 kopia_66": 4674551156479404991
+      "exterior \u2014 kopia_67": 6867981840802854517
+      "exterior \u2014 kopia_68": -6736332360074578025
+      "exterior \u2014 kopia_69": -6201915396569955761
+      "exterior \u2014 kopia_7": 3347459273180371663
+      "exterior \u2014 kopia_70": -4781428492632931414
+      "exterior \u2014 kopia_71": -7582553452083786078
+      "exterior \u2014 kopia_72": -6222497392135607269
+      "exterior \u2014 kopia_73": 1576681588009353434
+      "exterior \u2014 kopia_74": 596401263805913241
+      "exterior \u2014 kopia_75": -2991941162237942982
+      "exterior \u2014 kopia_76": 1176350613451886479
+      "exterior \u2014 kopia_77": -3705699999868432218
+      "exterior \u2014 kopia_78": 2833855513316749973
+      "exterior \u2014 kopia_79": 1185744919853695087
+      "exterior \u2014 kopia_8": -6211599492825919978
+      "exterior \u2014 kopia_80": -6680831804363858414
+      "exterior \u2014 kopia_81": -347247335926509206
+      "exterior \u2014 kopia_82": 2843696864774058205
+      "exterior \u2014 kopia_83": -8383114885692803241
+      "exterior \u2014 kopia_84": 1970294662408077398
+      "exterior \u2014 kopia_85": -6092340493023724663
+      "exterior \u2014 kopia_86": 3035865787388018977
+      "exterior \u2014 kopia_87": -8148604525871425352
+      "exterior \u2014 kopia_88": 8231813894240208825
+      "exterior \u2014 kopia_89": -6758371606448765706
+      "exterior \u2014 kopia_9": 3927622186255403727
+      "exterior \u2014 kopia_90": 7064955494308748078
+      "exterior \u2014 kopia_91": -315420530289960137
+      "exterior \u2014 kopia_92": 7819441454211681352
+      "exterior \u2014 kopia_93": 3903037970080632481
+      "exterior \u2014 kopia_94": 1455153089592721307
+      "exterior \u2014 kopia_95": -581317524609708017
+      "exterior \u2014 kopia_96": 3066330661624608718
+      "exterior \u2014 kopia_97": -6185876714663149954
+      "exterior \u2014 kopia_98": -2199859555287857890
+      "exterior \u2014 kopia_99": -4585394446062281822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
