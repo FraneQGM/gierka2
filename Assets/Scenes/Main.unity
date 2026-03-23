@@ -12870,7 +12870,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 3.8295174, y: 0.6447923}
+  m_Offset: {x: 4.9420805, y: 0.6447923}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -12880,7 +12880,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 8.659031, y: 2.6594586}
+  m_Size: {x: 10.884157, y: 2.6594586}
   m_EdgeRadius: 0
 --- !u!1 &979234171
 GameObject:
@@ -16298,10 +16298,10 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 0.0051179416, y: -0.0017304271}
-  - {x: -0.12960178, y: -0.0067696515}
-  - {x: -0.19102119, y: 0.037306484}
-  - {x: -0.19118342, y: 0.03735244}
+  - {x: -0.058765598, y: 0.0040661274}
+  - {x: -0.05962742, y: 0.03850124}
+  - {x: -0.13491115, y: 0.03876383}
+  - {x: -0.18098152, y: 0.06504329}
   - {x: -0.15856919, y: 0.09075033}
   - {x: -0.07055076, y: 0.12598786}
   - {x: -0.06779149, y: 0.2705505}
@@ -16309,11 +16309,12 @@ EdgeCollider2D:
   - {x: 0.050370082, y: 0.1278555}
   - {x: 0.09243958, y: 0.12850538}
   - {x: 0.17561093, y: 0.07273439}
-  - {x: 0.19273506, y: 0.029331136}
-  - {x: 0.1896871, y: 0.022247918}
-  - {x: 0.14766178, y: -0.002041813}
-  - {x: 0.08411433, y: -0.0024580173}
-  - {x: -0.00036130368, y: -0.0033308938}
+  - {x: 0.17606817, y: 0.06673499}
+  - {x: 0.177063, y: 0.06290126}
+  - {x: 0.14155075, y: 0.035027906}
+  - {x: 0.05314971, y: 0.039014596}
+  - {x: 0.05308241, y: 0.002704395}
+  - {x: -0.058771763, y: 0.0032494804}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -25142,6 +25143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1741433485}
   - component: {fileID: 1741433486}
+  - component: {fileID: 1741433487}
   m_Layer: 0
   m_Name: HouseCar
   m_TagString: Untagged
@@ -25158,8 +25160,8 @@ Transform:
   m_GameObject: {fileID: 1741433484}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.612, y: -1.32, z: 0}
-  m_LocalScale: {x: 0.852, y: 0.852, z: 0.852}
+  m_LocalPosition: {x: 18.814, y: -1.381, z: 0}
+  m_LocalScale: {x: 1.1007841, y: 1.1007841, z: 1.1007841}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 703196949}
@@ -25211,7 +25213,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 5
   m_MaskInteraction: 0
   m_Sprite: {fileID: 3079434808264247364, guid: 2529f58c0f0f4784d925363eac539680, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -25223,6 +25225,52 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!68 &1741433487
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741433484}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.8069472, y: -0.23839007}
+  - {x: -0.80325025, y: 0.8889491}
+  - {x: 0.8010538, y: 0.91494215}
+  - {x: 0.8241604, y: -0.24593788}
+  - {x: -0.804188, y: -0.2372875}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!1 &1746525068
 GameObject:
   m_ObjectHideFlags: 0
