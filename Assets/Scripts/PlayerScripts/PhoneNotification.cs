@@ -12,7 +12,7 @@ public class PhoneNotification : MonoBehaviour
 
     void Update()
     {
-        bool currentState = DialogueManager.dialogueCompleted && phoneNotification;
+        bool currentState = DialogueProgress.IsCompleted("dialogue1") && phoneNotification;
 
         phoneMark.SetActive(currentState);
 

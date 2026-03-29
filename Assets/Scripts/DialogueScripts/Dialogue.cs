@@ -3,6 +3,12 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Dialogue", menuName = "Dialogue/New Dialogue")]
 public class Dialogue : ScriptableObject
 {
+    [Header("ID dialogu")]
+    public string dialogueID; // np. "dialogue1"
+
+    [Header("Wymagane dialogi (blokada)")]
+    public string[] requiredDialogues;
+
     public Node[] nodes;
 }
 

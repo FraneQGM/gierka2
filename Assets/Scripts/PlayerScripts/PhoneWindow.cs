@@ -6,7 +6,7 @@ public class PhoneWindow : MonoBehaviour
 
     void Update()
     {
-        if (!DialogueManager.dialogueCompleted)
+        if (!DialogueProgress.IsCompleted("dialogue1"))
         {
             phoneMessage.SetActive(false);
             return;

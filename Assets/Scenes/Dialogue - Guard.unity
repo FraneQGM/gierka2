@@ -613,7 +613,7 @@ MonoBehaviour:
   dialogueText: {fileID: 1056345245}
   choiceButtonPrefab: {fileID: 8990318041509194258, guid: e969e94502b111049b4abef799059841, type: 3}
   buttonContainer: {fileID: 322606016}
-  Dialogue: {fileID: 11400000, guid: 6b298d6b4fe39404b978e060c9de411e, type: 2}
+  dialogue: {fileID: 11400000, guid: 6b298d6b4fe39404b978e060c9de411e, type: 2}
 --- !u!1 &824358254
 GameObject:
   m_ObjectHideFlags: 0

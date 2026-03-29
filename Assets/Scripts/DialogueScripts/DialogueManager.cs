@@ -10,56 +10,55 @@ public class DialogueManager : MonoBehaviour
     public Button choiceButtonPrefab;
     public Transform buttonContainer;
 
-    public Dialogue Dialogue;
+    [Header("Dialogue do uruchomienia")]
+    public Dialogue dialogue;
 
     private Dialogue currentDialogue;
     private int currentNodeIndex;
     private bool dialogueActive = false;
 
-    // 🔒 GLOBALNA BLOKADA DIALOGU
-    public static bool dialogueCompleted = false;
-
-
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && !dialogueActive && !dialogueCompleted)
+        if (Input.GetKeyDown(KeyCode.Space) && !dialogueActive)
         {
-            StartDialogue(Dialogue);
-            dialogueActive = true;
+            StartDialogue(dialogue);
         }
     }
 
     public void StartDialogue(Dialogue dialogue)
     {
-        // ❗ BLOKADA
-        if (dialogueCompleted)
+        if (dialogue == null)
         {
-            Debug.Log("Dialog został już ukończony – zablokowany.");
+            Debug.LogError("Brak dialogu!");
+            return;
+        }
+
+        // 🔒 SPRAWDZENIE WYMAGAŃ
+        if (!DialogueProgress.AreRequirementsMet(dialogue.requiredDialogues))
+        {
+            Debug.Log("Nie możesz jeszcze tego dialogu zrobić!");
+            return;
+        }
+
+        // 🔒 JEŚLI JUŻ ZROBIONY
+        if (DialogueProgress.IsCompleted(dialogue.dialogueID))
+        {
+            Debug.Log("Ten dialog już został ukończony!");
             return;
         }
 
         currentDialogue = dialogue;
         currentNodeIndex = 0;
+        dialogueActive = true;
+
         ShowNode();
     }
 
     void ShowNode()
     {
-        if (currentDialogue == null)
+        if (currentDialogue == null || currentDialogue.nodes.Length == 0)
         {
-            Debug.LogError("Brak dialogue!");
-            return;
-        }
-
-        if (currentDialogue.nodes == null || currentDialogue.nodes.Length == 0)
-        {
-            Debug.LogError("Dialogue nie ma node'ów!");
-            return;
-        }
-
-        if (currentNodeIndex < 0 || currentNodeIndex >= currentDialogue.nodes.Length)
-        {
-            Debug.LogError("Zły index node: " + currentNodeIndex);
+            Debug.LogError("Dialogue pusty!");
             return;
         }
 
@@ -70,14 +69,13 @@ public class DialogueManager : MonoBehaviour
         }
 
         Node node = currentDialogue.nodes[currentNodeIndex];
-
         dialogueText.text = node.text;
 
-        // ❗ KONIEC DIALOGU
+        // 🔚 KONIEC DIALOGU
         if (node.choices == null || node.choices.Length == 0)
         {
-            // oznacz jako zakończony
-            dialogueCompleted = true;
+            // oznacz jako ukończony
+            DialogueProgress.CompleteDialogue(currentDialogue.dialogueID);
 
             Button btn = Instantiate(choiceButtonPrefab, buttonContainer);
             btn.GetComponentInChildren<TextMeshProUGUI>().text = "Wyjdź";
@@ -87,6 +85,8 @@ public class DialogueManager : MonoBehaviour
 
             btn.onClick.AddListener(() =>
             {
+                dialogueActive = false;
+
                 PhoneNotification.phoneNotification = true;
                 SceneManager.LoadScene("Main");
             });
@@ -94,7 +94,7 @@ public class DialogueManager : MonoBehaviour
             return;
         }
 
-        // NORMALNE OPCJE
+        // 🔘 OPCJE WYBORU
         foreach (var choice in node.choices)
         {
             Button btn = Instantiate(choiceButtonPrefab, buttonContainer);
@@ -113,7 +113,7 @@ public class DialogueManager : MonoBehaviour
                 }
                 else
                 {
-                    Debug.LogError("Niepoprawny nextNodeIndex: " + nextIndex);
+                    Debug.LogError("Zły nextNodeIndex: " + nextIndex);
                 }
             });
         }
