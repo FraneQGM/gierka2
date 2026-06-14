@@ -87,7 +87,6 @@ public class DialogueManager : MonoBehaviour
             {
                 dialogueActive = false;
 
-                PhoneNotification.phoneNotification = true;
                 SceneManager.LoadScene("Main");
             });
 

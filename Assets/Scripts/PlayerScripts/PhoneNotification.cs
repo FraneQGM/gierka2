@@ -5,36 +5,30 @@ public class PhoneNotification : MonoBehaviour
 {
     public GameObject phoneMark;
 
-    public static bool phoneNotification;
+    private static bool initialized = false;
 
-    private bool previousState;
-    private bool soundPlayed = false;
-
-    void Update()
+    void Start()
     {
-        bool currentState = DialogueProgress.IsCompleted("dialogue1") && phoneNotification;
-
-        phoneMark.SetActive(currentState);
-
-        // wykrycie pojawienia się
-        if (currentState && !previousState && !soundPlayed)
+        if (initialized)
         {
-            StartCoroutine(PlaySoundWithDelay());
-            soundPlayed = true;
+            phoneMark.SetActive(false);
+            return;
         }
 
-        // reset gdy zniknie
-        if (!currentState)
-        {
-            soundPlayed = false;
-        }
+        initialized = true;
 
-        previousState = currentState;
+        phoneMark.SetActive(true);
+        StartCoroutine(PlaySoundWithDelay());
+    }
+
+    public void HideMark()
+    {
+        phoneMark.SetActive(false);
     }
 
     IEnumerator PlaySoundWithDelay()
     {
-        yield return new WaitForSeconds(0.5f); // 0.5 sekundy
+        yield return new WaitForSeconds(0.5f);
         soundManager.instance.PlayPhoneNotification();
     }
 }
