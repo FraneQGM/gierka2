@@ -12,30 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 995b94538c7bbfc44a6b0e186a1028fa, type: 3}
   m_Name: DialogueGuard
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  dialogueID: 
+  requiredDialogues: []
   nodes:
   - text: Witaj!
-    choices:
-    - text: "Cze\u015B\u0107!"
-      nextNodeIndex: 1
-    - text: "Nie cze\u015B\u0107!"
-      nextNodeIndex: 2
-  - text: Co tam?
-    choices:
-    - text: Fajnie
-      nextNodeIndex: 3
-    - text: Nie fajnie
-      nextNodeIndex: 4
-  - text: "Czemu tak niemi\u0142o?"
-    choices:
-    - text: Bo tak
-      nextNodeIndex: 5
-    - text: Bo nie
-      nextNodeIndex: 6
-  - text: To fajnie
-    choices: []
-  - text: To nie fajnie
-    choices: []
-  - text: to fajnie 1
-    choices: []
-  - text: to nie fajnie 2
-    choices: []
+  - text: "Co\u015B"
+  - text: Nara
