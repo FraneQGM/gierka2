@@ -24,8 +24,14 @@ MonoBehaviour:
     m_path: Assets/Scenes/Main.unity
     m_guid: 8c9cfa26abfee488c85f1582747f6a02
   - m_enabled: 1
-    m_path: Assets/Scenes/Dialog1.unity
+    m_path: Assets/Scenes/Dialogue - Guard.unity
     m_guid: 6085dbb9f3553b3419ceea446ef4a9b5
+  - m_enabled: 1
+    m_path: Assets/Scenes/Dialogue - Doktor.unity
+    m_guid: 2567d564a24093741a85edb0f14f6ff0
+  - m_enabled: 1
+    m_path: Assets/Scenes/Dialogue - Anna.unity
+    m_guid: 3db190cab315a7a45a3402192ca1cd05
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:

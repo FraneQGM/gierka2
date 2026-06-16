@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dialogue - Guard.unity
     guid: 6085dbb9f3553b3419ceea446ef4a9b5
+  - enabled: 1
+    path: Assets/Scenes/Dialogue - Doktor.unity
+    guid: 2567d564a24093741a85edb0f14f6ff0
+  - enabled: 1
+    path: Assets/Scenes/Dialogue - Anna.unity
+    guid: 3db190cab315a7a45a3402192ca1cd05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

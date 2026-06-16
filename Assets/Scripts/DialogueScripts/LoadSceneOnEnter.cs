@@ -14,26 +14,12 @@ public class SceneSwitch : MonoBehaviour
 
     private void Start()
     {
-        if (DialogueProgress.IsCompleted("dialogue1"))
-        {
-            Debug.Log("Scena dialogowa zablokowana.");
-            return;
-        }
         if (clickButtonUI != null)
             clickButtonUI.SetActive(false);
     }
 
     private void Update()
     {
-        // ❗ BLOKADA INTERAKCJI
-        if (DialogueProgress.IsCompleted("dialogue1"))
-        {
-            if (clickButtonUI != null)
-                clickButtonUI.SetActive(false);
-
-            return;
-        }
-
         if (playerInRange && Input.GetKeyDown(KeyCode.E))
         {
             if (player != null)
@@ -47,8 +33,6 @@ public class SceneSwitch : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (DialogueProgress.IsCompleted("dialogue1"))
-            return; // ❗ blokujemy całkowicie wejście
 
         if (other.CompareTag("Player"))
         {

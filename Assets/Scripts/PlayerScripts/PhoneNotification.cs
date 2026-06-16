@@ -29,6 +29,10 @@ public class PhoneNotification : MonoBehaviour
     IEnumerator PlaySoundWithDelay()
     {
         yield return new WaitForSeconds(0.5f);
-        soundManager.instance.PlayPhoneNotification();
+
+        if (SoundManager.instance != null)
+        {
+            SoundManager.instance.PlayPhoneNotification();
+        }
     }
 }

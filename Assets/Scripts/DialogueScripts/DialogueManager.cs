@@ -34,9 +34,6 @@ public class DialogueManager : MonoBehaviour
         if (!DialogueProgress.AreRequirementsMet(dialogue.requiredDialogues))
             return;
 
-        if (DialogueProgress.IsCompleted(dialogue.dialogueID))
-            return;
-
         currentDialogue = dialogue;
         currentNodeIndex = 0;
         dialogueActive = true;
