@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 995b94538c7bbfc44a6b0e186a1028fa, type: 3}
-  m_Name: DialogueGuard
+  m_Name: DialogueDoktor
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
   dialogueID: 
   requiredDialogues: []
   nodes:
-  - text: "\u201EZakaz wst\u0119pu.\u201D"
-  - text: "\u201EMagazyn jest obj\u0119ty ochron\u0105.\u201D"
-  - text: "\u201EBez wa\u017Cnej przepustki nigdzie nie wejdziesz.\u201D"
-  - text: "\u201EProsz\u0119 si\u0119 oddali\u0107.\u201D"
+  - text: "\u201ENie powinno ci\u0119 tu by\u0107.\u201D"
+  - text: "\u201ETo miejsce jest obecnie zamkni\u0119te.\u201D"
+  - text: "\u201ENie zadawaj pyta\u0144, na kt\xF3re nie chcesz zna\u0107 odpowiedzi.\u201D"
+  - text: "\u201EOdejd\u017A, zanim b\u0119dzie za p\xF3\u017Ano.\u201D"

@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 995b94538c7bbfc44a6b0e186a1028fa, type: 3}
-  m_Name: DialogueGuard
+  m_Name: DialogueAnna
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
   dialogueID: 
   requiredDialogues: []
   nodes:
-  - text: "\u201EZakaz wst\u0119pu.\u201D"
-  - text: "\u201EMagazyn jest obj\u0119ty ochron\u0105.\u201D"
-  - text: "\u201EBez wa\u017Cnej przepustki nigdzie nie wejdziesz.\u201D"
-  - text: "\u201EProsz\u0119 si\u0119 oddali\u0107.\u201D"
+  - text: "\u201EDobrze, \u017Ce przyszed\u0142e\u015B.\u201D"
+  - text: "\u201EOd rana dziej\u0105 si\u0119 dziwne rzeczy przy magazynie.\u201D"
+  - text: "\u201EWojsko pilnuje wej\u015Bcia i nikogo nie wpuszcza.\u201D"
+  - text: "\u201EWidzia\u0142am te\u017C Kowalskiego. Wygl\u0105da\u0142 na zdenerwowanego.\u201D"
+  - text: "\u201EMo\u017Ce on wie, co si\u0119 dzieje.\u201D"
