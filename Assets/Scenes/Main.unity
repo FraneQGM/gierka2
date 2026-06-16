@@ -82760,7 +82760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbdf824158d1a5a48802d0af0856a01a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movement
-  speed: 20
+  speed: 7
   health: 100
   pixelsPerUnit: 32
 --- !u!50 &2124368420
